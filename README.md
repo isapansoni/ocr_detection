@@ -11,6 +11,7 @@ How I solved this problem?
 opencv library  is used to import image and preprocess it.
 Our form look like below which we want to process 
 
+![tony4](https://user-images.githubusercontent.com/33773505/66287039-b7355980-e8f1-11e9-9648-7e690bd0851c.jpg)
 
 
  3) Tessaract is used for ocr(optical charected detection
