@@ -33,3 +33,14 @@ Driving License: oO
 Our final data in tabular form look like below 
 
 ![Screenshot 2019-10-07 at 10 50 22 AM](https://user-images.githubusercontent.com/33773505/66286747-683af480-e8f0-11e9-95ab-d61193a0c67c.png)
+
+7) update data  in sql database with sqlite3
+
+# What Next..
+1) need to improve accuracy of tesseract as still some junk charecters present 
+2) we can use *google Vision* for better accuracy (paid)
+3) use mongo db instead sql as data retrival and insertion would be much faster 
+4) build web base application to upload and update automatically
+
+
+
