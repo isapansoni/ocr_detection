@@ -11,6 +11,8 @@ How I solved this problem?
 opencv library  is used to import image and preprocess it.
 Our form look like below which we want to process 
 
+
+
  3) Tessaract is used for ocr(optical charected detection
  4)After detecting charecters , we want to  remove all unnecessary raw and only need field which we want to insert into databease. Python's regular function help us to achive this goal.
  
@@ -28,3 +30,5 @@ Driving License: oO
 
 6) we can use dictionary or pandas dataframe to convert data into tabular format which we want ultimately
 Our final data in tabular form look like below 
+
+![Screenshot 2019-10-07 at 10 50 22 AM](https://user-images.githubusercontent.com/33773505/66286747-683af480-e8f0-11e9-95ab-d61193a0c67c.png)
